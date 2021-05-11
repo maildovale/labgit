@@ -1,0 +1,4 @@
+local-config.txt
+*.config
+*.ex?
+web/*.html
